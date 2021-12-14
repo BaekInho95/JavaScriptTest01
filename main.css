@@ -1,0 +1,9 @@
+
+.alert-box {/*마찬가지로 커서 찍고 ctrl + e 하면 색상 나옴*/
+    background: #faf0a6;
+    color: #5acc70;
+    padding: 20px;
+    border-radius: 5px;
+    /*숨기기*/
+    display: none;
+}
